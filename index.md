@@ -1,10 +1,19 @@
 ## A Helpful Guide to RNA Splicing Technologies
 
+*A beginner’s step-by-step guide to using current RNA Splicing prediction technologies (Pangolin, MTSplice and SpliceAI).* 
+
 ## A Bit of An Introduction
 
-You can use the [editor on GitHub](https://github.com/snehabalaji/RNA-Splicing-Demos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone! My name is Sneha Balaji and I’m a second year [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/)  student at the University of Toronto in Toronto, Canada! This summer I had the opportunity to intern at [King Mongkut’s University of Technology Thonburi](https://www.kmutt.ac.th/en/) (KMUTT) in Bangkok, Thailand. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over the course of my summer, my research mainly focused on RNA splicing, specifically about the various prediction technologies in this ever-growing field. As someone who has freshly finished first year and with minimal technical expertise, I found it quite the challenge to understand and effectively use these technologies. So, I decided to create this blog so that individuals with less technical backgrounds can have an easier time accessing and using these technologies. 
+
+*Note: these tutorials will primarily focus on using the technologies in a Google Collab environment.* 
+
+This blog will focus on three current technologies in particular: Pangolin, MTSplice and SpliceAI. A bit about these technologies: 
+
+
+## Glossary 
 
 ### Markdown
 
