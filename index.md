@@ -11,6 +11,9 @@ Over the course of my summer, my research mainly focused on RNA splicing, specif
 *Note: these tutorials will primarily focus on using the technologies in a Google Collab environment.* 
 
 This blog will focus on three current technologies in particular: Pangolin, MTSplice and SpliceAI. A bit about these technologies: 
+* **Pangolin**: a deep learning technique that uses DNA sequences from four different species to predict both usage of a splice site and probability with reasonable accuracy in genetic variations. 
+* **MTSplice and MMSplice**: both predict the effect of genetic variants using cassette exons using human tissues. MTSplice has been trained on tissue-specific variants, giving it tissue-specific predictions abilities as opposed to MMSplice.
+* **SpliceAI**: a neural network that predicts splice sites from any given pre-mRNA sequence with a high degree of accuracy.
 
 
 ## Glossary 
