@@ -1,4 +1,4 @@
-# A Helpful Guide to RNA Splicing Technologies
+## A Helpful Guide to RNA Splicing Technologies
 
 ## A Bit of An Introduction
 
