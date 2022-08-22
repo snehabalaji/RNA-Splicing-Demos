@@ -1,5 +1,10 @@
 ## A Helpful Guide to RNA Splicing Technologies
 
+@import "{{ site.theme }}";
+.markdown-body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 You can use the [editor on GitHub](https://github.com/snehabalaji/RNA-Splicing-Demos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
