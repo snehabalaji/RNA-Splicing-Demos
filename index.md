@@ -1,5 +1,6 @@
-## A Helpful Guide to RNA Splicing Technologies
+# A Helpful Guide to RNA Splicing Technologies
 
+## A Bit of An Introduction
 
 You can use the [editor on GitHub](https://github.com/snehabalaji/RNA-Splicing-Demos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
