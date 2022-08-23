@@ -33,7 +33,9 @@ Below is a helpful table of the input and output formats of each of the technolo
 
 **MISSING TABLE***
 
-![Image test](/assets/Screen Shot 2022-08-23 at 3.25.13 PM.png)
+<img width="440" alt="Screen Shot 2022-08-23 at 3 25 13 PM" src="https://user-images.githubusercontent.com/98296345/186252270-58dfdd63-d700-4538-84f3-5109f0ca39e8.png">
+
+<img width="514" alt="Screen Shot 2022-08-23 at 3 25 18 PM" src="https://user-images.githubusercontent.com/98296345/186252413-091db449-26e5-44a6-a2e2-c2df333f0732.png">
 
 With specific reference to the file formats: 
 * **VCF**: Known as Variant Call Format files are a text used to store gene sequences. 
@@ -41,7 +43,7 @@ With specific reference to the file formats:
 
 However, pre-processing is often required before feeding genetic information to these technologies. Below is a table of the various preprocessing methods for each technology: 
 
-**MISSING TABLE***
+<img width="646" alt="Screen Shot 2022-08-23 at 3 25 28 PM" src="https://user-images.githubusercontent.com/98296345/186252415-bdf29f99-a74a-4f6d-acab-4d18dff51df6.png">
 
 Specifics on each preprocessing method will be discussed under each technology. 
 
@@ -50,7 +52,7 @@ In addition to feeding the model the gene file for prediction, each model also r
 ## Different Types of Predictions 
 The three different models can also predict different features with respect to RNA splicing, the table shown below helps to summarize some of these prediction capabilities.
 
-**MISSING TABLE***
+<img width="664" alt="Screen Shot 2022-08-23 at 3 25 34 PM" src="https://user-images.githubusercontent.com/98296345/186252418-e4e3a25a-3c25-4b5d-aa01-18f7f4804f95.png">
 
 These predictions refer to: 
 * **Splice Site**: This refers to predicting where on the pre-mRNA a splice will occur; the possibilities consist of yes or no for a splice site.  
@@ -106,7 +108,8 @@ Pangolin has been shown to have a higher AUPRC score than pre-existing models an
 
 ### Example Prediction 
 Here is an image of Pangolin’s prediction run on the breast cancer variant gene. 
-**MISSING IMAGE***
+
+<img width="618" alt="Screen Shot 2022-08-23 at 3 25 47 PM" src="https://user-images.githubusercontent.com/98296345/186252419-01fce74e-5f7b-4fe9-9ee0-0d7e1edafeec.png">
 
 ### How to Interpret the Results 
 
@@ -153,8 +156,8 @@ MTSplice is one of the more accurate current RNA splicing technologies, however 
 In addition, since the model was trained using exonic variants, only exonic variant predictions are made. 
 
 ### Example Prediction 
-**MISSING IMAGE***
 
+<img width="641" alt="Screen Shot 2022-08-23 at 3 25 55 PM" src="https://user-images.githubusercontent.com/98296345/186252422-0047210a-ef22-4c84-a79d-d27dcc05b9f1.png">
 
 ### How to Interpret the Results 
 
@@ -210,7 +213,8 @@ Here are the required parameters, directly from the project’s github page:
 A major advantage of SpliceAI is its accuracy and its ability to predict if a particular site on a m-RNA is a splice donor, splice acceptor or neither using any genomic sequence input. In addition, its large prediction distance along the gene greatly increases its accuracy and ability. For example, the neural network can predict with up to 95% top-k accuracy for pre-mRNA transcripts in the training dataset and has an 85% top-k accuracy for long noncoding RNAs
 
 ### Example Prediction 
-**MISSING IMAGE***
+
+<img width="642" alt="Screen Shot 2022-08-23 at 3 26 02 PM" src="https://user-images.githubusercontent.com/98296345/186252423-e05f4656-5acc-453e-a26e-9dd48377267b.png">
 
 ### How to Interpret the Results 
 
