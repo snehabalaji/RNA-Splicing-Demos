@@ -30,7 +30,7 @@ Previously, the sheer amount of splice sites and possibilities made it near impo
 *In addition to background knowledge on splicing, a foundation in deep learning technologies may also prove to be useful.* 
 
 Deep learning is a fairly new and rapidly evolving field of computing concerned with developing algorithms and programs that learn the way humans do. For example, virtual assistants and face recognition technologies often use these concepts. 
-![deep learning](https://assets.website-files.com/5fb24a974499e90dae242d98/60f6feb4be651f666b46194a_AI%20vs%20Machine%20Learning%20vs%20Deep%20Learning.jpg)
+![deep learning](https://master-iesc-angers.com/wp-content/uploads/2018/04/2018-04-13_1322.png)
 In specific, neural networks are often used in deep learning as they were inspired by the human brain’s biological signalling of neurons.
 ![layers](https://miro.medium.com/max/1400/1*3fA77_mLNiJTSgZFhYnU0Q.png)
 Neural networks are made of many layers of interconnected nodes which are then stacked up on top of each other to create the most accurate prediction. Creating such a network requires a combination of biases, weights and data inputs. Here are some notable layers: 
