@@ -33,6 +33,8 @@ Below is a helpful table of the input and output formats of each of the technolo
 
 **MISSING TABLE***
 
+![Image test](/assets/css/Screen Shot 2022-08-23 at 3.25.13 PM.png)
+
 With specific reference to the file formats: 
 * **VCF**: Known as Variant Call Format files are a text used to store gene sequences. 
 * **CSV**: Known as Comma Separated Value files are text files that can be easily arranged as a spreadsheet.  
