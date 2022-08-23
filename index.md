@@ -1,6 +1,6 @@
 ## Splicing & Learning
 
-*A beginner’s guide to RNA Splicing and deep learning, created to provide a foundation for using RNA splicing technologies. This page also includes technical information on the prediction methods of Pangolin, MTSplice and SpliceAI. * 
+*A beginner’s guide to RNA Splicing and deep learning, created to provide a foundation for using RNA splicing technologies. This page also includes technical information on the prediction methods of Pangolin, MTSplice and SpliceAI.* 
 
 This blog includes: 
 * Overview of RNA Splicing 
