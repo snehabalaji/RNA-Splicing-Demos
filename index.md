@@ -15,14 +15,16 @@ Credits:
 
 ## Brief Overview on RNA Splicing 
 *To fully utilize the splicing technologies, a basic background in RNA splicing is required.* 
-Maybe add a quote about rna splicing? 
-Also add some pictures/diagrams 
 
-RNA splicing is a perplexing and captivating genetic process that gives rise to all human traits and characteristics. The entire process begins with the aim of protein synthesis with the precursor messenger RNA, pre-mRNA, which contains coding, extrons, and non-coding regions, introns. In order for the RNA to be translated into the proper corresponding protein, the introns must be removed through a process called RNA splicing. 
+RNA splicing is a perplexing and captivating genetic process that gives rise to all human traits and characteristics. The entire process begins with the aim of protein synthesis with the precursor messenger RNA, pre-mRNA, which contains coding, extrons, and non-coding regions, introns. In order for the RNA to be translated into the proper corresponding protein, the introns must be removed through a process called RNA splicing. Shown below is an image of this process.
+
+![splicing](https://cdn.kastatic.org/ka-perseus-images/3157cfd56297f8bc312c0b53bdf9dd8c09f07063.png)
 
 This is done by the spliceosome, which can be thought of as “molecular scissors” which delicately trim and then join the intron regions in a loop; these loops of intron regions are then released from the pre-mRNA, transforming it into mRNA that then moves onward through the protein synthesis process to communicate the protein to create. 
 
-Any small change in this precise process may result in a completely different RNA and thus resulting protein leading to potentially catastrophic effects. Thus, variants, whether hereditary or random, are of utmost interest to those studying the field. 
+Any small change in this precise process may result in a completely different RNA and thus resulting protein leading to potentially catastrophic effects. In some cases, a single "root" DNA can give rise to many end protein strands, a phenomenon known as alternative splicing. Thus, variants, whether hereditary or random, are of utmost interest to those studying the field. Shown below is a diagram representing alternative splicing.
+
+![splicing](https://cdn.technologynetworks.com/tn/images/body/38518_tn_alternativesplicing_customimage-1_jp1628504770196.png)
 
 In addition, other features can also influence RNA splicing such as the tissue it occurs in, this phenomenon is known as tissue-specific gene expression where the same genome can create various phenotypes in different tissues, thus yielding a complicated variety of features and systemic consequences from the same root genetic information. Examples include the c-src N1 exon, cancer-associated splicing of the CD44 gene and the alternative splicing cascade involved in Drosophila melanogaster sex determination [1](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2004-5-10-r74). 
 
@@ -31,11 +33,13 @@ Previously, the sheer amount of splice sites and possibilities made it near impo
 ## Brief Overview on Deep learning 
 *In addition to background knowledge on splicing, a foundation in deep learning technologies may also prove to be useful.* 
 
-Add images for NN, for deep learning fields 
-
 Deep learning is a fairly new and rapidly evolving field of computing concerned with developing algorithms and programs that learn the way humans do. For example, virtual assistants and face recognition technologies often use these concepts. 
 
-In specific, neural networks are often used in deep learning as they were inspired by the human brain’s biological signalling of neurons. 
+![deep learning](https://assets.website-files.com/5fb24a974499e90dae242d98/60f6feb4be651f666b46194a_AI%20vs%20Machine%20Learning%20vs%20Deep%20Learning.jpg)
+
+In specific, neural networks are often used in deep learning as they were inspired by the human brain’s biological signalling of neurons.
+
+![layers](https://miro.medium.com/max/1400/1*3fA77_mLNiJTSgZFhYnU0Q.png)
 
 Neural networks are made of many layers of interconnected nodes which are then stacked up on top of each other to create the most accurate prediction. Creating such a network requires a combination of biases, weights and data inputs. Here are some notable layers: 
 * **Input Layer**: where the data, for training or testing, is fed into the network. 
