@@ -62,6 +62,15 @@ Using these different layers and mathematical formulas, the network interprets t
 ### Prediction Logic 
 
 ## Glossary 
+* Gene Transfer File (GTF): a type of file formatting that is used for storing information about genetic structure. 
+* Neural Networks: computing algorithms modelled after human neural connections in the brain. 
+* Deep Learning: a field of computing concerned with developing algorithms and programs that learn the way humans do
+* Area Under the Precision Recall Curve (AUPRC): Known as AUPRC is a metric for binary responses used to measure the prediction accuracy of a technology.
+* Cassette Exons: intervening exons that can be excluded or skipped and generate distinct protein results. 
+* Pre-mRNA: Precursor messenger RNAs (or Pre-mRNA) communicate information from DNA to protein synthesizing units abou how to build the target protein. 
+* Alternative Splicing: different splice sites that allow for a single parent gene to code for many different proteins. 
+* Weights: In the context of deep learning weights are numerical values that represent the strength of the connection between two neurons. 
+* Nodes: a computational unit made of an input, transfer connection and output.
 
 ## References 
 
