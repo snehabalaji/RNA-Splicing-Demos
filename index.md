@@ -31,8 +31,6 @@ Pangolin, MTSplice and SpliceAI were created at different times by different peo
 
 Below is a helpful table of the input and output formats of each of the technologies: 
 
-**MISSING TABLE***
-
 <img width="440" alt="Screen Shot 2022-08-23 at 3 25 13 PM" src="https://user-images.githubusercontent.com/98296345/186252270-58dfdd63-d700-4538-84f3-5109f0ca39e8.png">
 
 <img width="514" alt="Screen Shot 2022-08-23 at 3 25 18 PM" src="https://user-images.githubusercontent.com/98296345/186252413-091db449-26e5-44a6-a2e2-c2df333f0732.png">
