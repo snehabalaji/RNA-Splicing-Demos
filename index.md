@@ -225,17 +225,17 @@ Here, 0.01 is the increase and 0.00 is the decrease in the probability that the 
 To summarize, 
 
 ## Glossary 
-Gene Transfer File (GTF): 
-Neural Networks: 
-Deep Learning: 
-Area Under the Precision Recall Curve (AUPRC): 
-Cassette Exons: intervening exons that can be excluded or skipped and generate distinct protein results. 
-Pre-mRNA: Precursor messenger RNAs (or Pre-mRNA) communicate information from DNA to protein synthesizing units abou how to build the target protein. 
-Alternative Splicing: 
-Biases: In a deep learning network, biases are 
-Weights: In the context of deep learning weights are
-Nodes: 
-Inclusion/exclusion: 
+* Gene Transfer File (GTF): 
+* Neural Networks: 
+* Deep Learning: 
+* Area Under the Precision Recall Curve (AUPRC): 
+* Cassette Exons: intervening exons that can be excluded or skipped and generate distinct protein results. 
+* Pre-mRNA: Precursor messenger RNAs (or Pre-mRNA) communicate information from DNA to protein synthesizing units abou how to build the target protein. 
+* Alternative Splicing: 
+* Biases: In a deep learning network, biases are 
+* Weights: In the context of deep learning weights are
+* Nodes: 
+* Inclusion/exclusion: 
 
 ## References 
 
